@@ -1,0 +1,36 @@
+---
+title: My Website Portfolio Project
+subtitle: Proposal Presentation
+author: Nicole Bewley-Hudson
+institute: IBM 3202, Cal Poly Pomona
+date: today
+format:
+  revealjs:
+    theme: black
+    slide-number: true
+    center: false
+    width: 1600
+    height: 900
+    footer: My Website Portfolio
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+editor: visual
+execute:
+  echo: true
+freeze: auto
+---
+
+## Introduction
+
+Welcome to my **Market Analysis & Control Portfolio Website Project**.
+
+Welcome to my portfolio website proposal for IBM 3202 Market Analysis and Control. The purpose of this website is to showcase the projects and analytical skills I developed throughout this course using R, Quarto, and data analytics tools. The website will function as a professional portfolio demonstrating my ability to perform data wrangling, create data visualizations, build dashboards, and communicate insights using reproducible reports.
+
+Each section of the website will highlight assignments completed during the course, including data visualization projects, data wrangling exercises, interactive presentations, and analytics tools used to analyze marketing data.
