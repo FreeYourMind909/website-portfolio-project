@@ -24,13 +24,170 @@ format:
 editor: visual
 execute:
   echo: true
-freeze: auto
+  freeze: auto
 ---
 
-## Introduction
+## Introduction {.title-slide}
 
 Welcome to my **Market Analysis & Control Portfolio Website Project**.
 
-Welcome to my portfolio website proposal for IBM 3202 Market Analysis and Control. The purpose of this website is to showcase the projects and analytical skills I developed throughout this course using R, Quarto, and data analytics tools. The website will function as a professional portfolio demonstrating my ability to perform data wrangling, create data visualizations, build dashboards, and communicate insights using reproducible reports.
+Welcome to my portfolio website proposal for IBM 3202 Market Analysis and Control.
+
+The purpose of this website is to showcase the projects and analytical skills I developed throughout this course using R, Quarto, and data analytics tools. The website will function as a professional portfolio demonstrating my ability to perform data wrangling, create data visualizations, build dashboards, and communicate insights using reproducible reports.
 
 Each section of the website will highlight assignments completed during the course, including data visualization projects, data wrangling exercises, interactive presentations, and analytics tools used to analyze marketing data.
+
+## My Website Plan
+
+### Pages I Plan To Include
+
+The website will be organized into several pages that showcase different types of work completed during this course. Each page will highlight specific assignments and skills developed throughout the semester.
+
+The goal of this structure is to clearly present my analytical workflow, from data preparation and analysis to visualization and presentation. Each page will include examples of my work, along with explanations of the tools and techniques used to achieve the results.
+
+## Home Page
+
+### Purpose
+
+My homepage will introduce who I am and provide an overview of the analytical skills I developed in this course.
+
+The homepage will include
+
+- A brief professional introduction
+- My academic background and career interests
+- Key skills developed in the course including:
+  - Data wrangling using the tidyverse
+  - Data visualization using ggplot2
+  - Reproducible reports using Quarto
+  - Interactive presentations using Revealjs
+  - Marketing analytics tools such as Google Analytics
+
+The homepage will also provide navigation links to the different sections of the portfolio website.
+
+## Portfolio Projects
+
+### What I Will Showcase
+
+This section of the website will showcase projects and assignments completed throughout the course that demonstrate my ability to analyze and communicate marketing data.
+
+Examples of projects that will be included:
+
+- **Data Visualization Projects**: Assignments focused on building visualizations using ggplot2 and the grammar of graphics to communicate insights from data.
+- **Data Wrangling Projects**: Exercises involving cleaning, transforming, and joining datasets using dplyr and tidyr.
+- **Advanced Data Wrangling Concepts**: Projects demonstrating relational joins, conditional variables using case_when, and applying functions across columns using across.
+
+Each project page will include explanations of the analysis process, visualizations created from the data, and interpretations of the results. This will allow viewers to understand the analytical workflow and the insights derived from the data.
+
+## Dashboard
+
+### Purpose
+
+The dashboard page will demonstrate how marketing data can be summarized and visualized in an interactive format.
+
+This page will showcase dashboards created from course assignments that present marketing insights using data visualization techniques.
+
+### What the Dashboard Will Show
+
+The dashboards will include:
+
+- Visual summaries of marketing performance
+- Trends and patterns in data
+- Key metrics displayed in charts and tables
+
+These dashboards will demonstrate how raw data can be transformed into meaningful insights that support business decision-making. The interactive nature of the dashboards will allow viewers to explore the data and understand the insights in a more engaging way.
+
+## Reveal.js Presentation
+
+### Purpose
+
+This page will feature an interactive Reveal.js presentation created using Quarto.
+
+Reveal.js presentations allow analytical results to be displayed directly in a web browser and provide interactive slide navigation.
+
+### What the Presentation Will Demonstrate
+
+The presentation will include:
+
+- Data analysis examples
+- Visualizations created from course assignments
+- Explanations of analytical results
+- Interactive slide navigation
+
+Using Reveal.js helps present analytical work in a professional format that can easily be shared online.
+
+## Website Analytics
+
+### Purpose
+
+This page will analyze traffic to the website using Google Analytics.
+
+### What the Analytics Page Will Show
+
+The analytics section will include:
+
+- Website traffic statistics
+- Visitor engagement metrics
+- Patterns in how users interact with the website
+
+The goal of this page is to demonstrate how analytics tools can be used to evaluate website performance and understand user behavior.
+
+## Reveal.js Features Demonstration
+
+### Features Used
+
+This slide demonstrates several Reveal.js features that were used when building the presentation in Quarto. These features help improve navigation, organization, and presentation clarity when sharing analytical results online.
+
+::: {.fragment}
+- Table of contents
+:::
+
+::: {.fragment}
+- Slide numbers
+:::
+
+::: {.fragment}
+- Columns layout
+:::
+
+::: {.fragment}
+- Speaker notes
+:::
+
+::: {.fragment}
+- Footer
+:::
+
+::: {.fragment}
+- Slide navigation
+:::
+
+::: {.fragment}
+- Incremental content display
+:::
+
+::: {.fragment}
+- Embedded code and visualizations
+:::
+
+These features help make the presentation more interactive and easier for viewers to follow. Reveal.js allows presentations to function directly inside a web browser, which makes it a powerful tool for sharing analytical work and data storytelling online.
+
+## Manual Increment Example
+
+### My Process
+
+First, I planned the structure of the website.
+
+. . .
+
+Then, I organized the main pages.
+
+. . .
+
+Finally, I designed the presentation layout.
+
+## References
+
+- Course Materials IBM 3202 Market Analysis and Control
+- [Quarto Documentation](https://quarto.org)
+- [Tidyverse Documentation](https://www.tidyverse.org)
+- [Reveal.js Documentation](https://revealjs.com)
